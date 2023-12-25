@@ -1,0 +1,4 @@
+repository "OurSurvivalHorrorGame@egetahayamaner@cloud"
+  path "/"
+    br "/main"
+    co "/main"
